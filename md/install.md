@@ -10,4 +10,4 @@
 <br>
 2つとものインストールが完了すると上部のメニューに [UpdraftShop] が表示されます。<br>
 <br>
-<img src="/updraftshop/meshbonemaster/images/usage/menu_updraftshop.png" style="width: 194px; height: 56px;">
+<img src="/meshbonemaster/images/usage/menu_updraftshop.png" style="width: 194px; height: 56px;">
