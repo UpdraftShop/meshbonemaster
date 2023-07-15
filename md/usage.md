@@ -6,13 +6,13 @@ unity上部のメニューから<br>
 [UpdraftShop] → [MeshBoneMaster]<br>
 の順でクリックする事で本ツールを開くことが出来ます。<br>
 <br>
-<img src="/images/usage/open_tool.png" width="287">
+<img src="/meshbonemaster/images/usage/open_tool.png" width="287">
 <br>
 <br>
 
 ### <a name="screen_tool">= 画面の説明<br></a>
 <div style="display: flex;">
-    <img src="/images/usage/screen_tool.png" style="width: 317px; height: 524px;">
+    <img src="/meshbonemaster/images/usage/screen_tool.png" style="width: 317px; height: 524px;">
     <div style="margin-left: 20px;">
         右上には言語切替機能があり,現在では[日本語(jp)/英語(en)/韓国語(ko)]に対応しています。<br>
         クリックする毎に順番に言語が切り替わります。<br>
@@ -29,7 +29,7 @@ unity上部のメニューから<br>
 ### <a name="function_tool">= 各種機能の説明<br></a>
 
 #### <a name="function_tool_find_weight">・ ウェイト検索<br></a>
-<img src="/images/usage/function_find_weight.png" style="width: 827.25px; height: 415.5px;"><br>
+<img src="/meshbonemaster/images/usage/function_find_weight.png" style="width: 827.25px; height: 415.5px;"><br>
 検索対象の欄に検索したいメッシュのオブジェクトを指定します。<br>
 指定されたメッシュが使用しているボーンを自動で検索し,検索した結果をリストに表示します。<br>
 リストに表示されたボーンをクリックする事でヒエラルキー上の同じオブジェクトが選択されます。<br>
@@ -41,13 +41,13 @@ unity上部のメニューから<br>
 <br>
 <br>
 #### <a name="function_tool_find_mesh">・ メッシュ検索<br></a>
-<img src="/images/usage/function_find_mesh.png" style="width: 827.25px; height: 415.5px;"><br>
+<img src="/meshbonemaster/images/usage/function_find_mesh.png" style="width: 827.25px; height: 415.5px;"><br>
 ウェイト検索の逆でボーンから使われているメッシュを検索します。<br>
 検索対象に検索したいボーンのオブジェクトを,ルートオブジェクトにアバター本体,もしくはボーンが含まれている衣装本体を指定します。<br>
 検索した結果がリストに表示されます。
 
 #### <a name="function_tool_remove_bone">・ ボーン削除<br></a>
-<img src="/images/usage/function_remove_bone.png" style="width: 827.25px; height: 415.5px;"><br>
+<img src="/meshbonemaster/images/usage/function_remove_bone.png" style="width: 827.25px; height: 415.5px;"><br>
 ボーンのルートには全てのボーンの親元のArmature(アバターによって名称が変わります)を指定します。<br>
 <br>
 
@@ -67,13 +67,13 @@ VRChatで許可されているコンポーネントは右上の [ ? ] にカー�
 この許可されたコンポーネントの中で削除予定のボーンが持っているコンポーネントが自動でドロップダウンに表示され<br>
 選択する事ができるようになります。<br>
 
-<img src="/images/usage/function_remove_bone_component_list.png" style="width: 317px; height: 540px;"><br>
+<img src="/meshbonemaster/images/usage/function_remove_bone_component_list.png" style="width: 317px; height: 540px;"><br>
 <br>
 <br>
 一番下までスクロールし,「削除リストを表示」をクリックする事で削除対象になっているボーンの一覧を見ることが出来ます。<br>
 他機能同様リストに表示されているオブジェクトをクリックする事でヒエラルキー上でも選択されます。<br>
 <br>
-<img src="/images/usage/function_remove_bone_list.png" style="width: 639px; height: 524px;"><br>
+<img src="/meshbonemaster/images/usage/function_remove_bone_list.png" style="width: 639px; height: 524px;"><br>
 <br>
 <br>
 各種設定が完了したら一番右下にある削除ボタンを押すことで削除する事ができます。<br>
