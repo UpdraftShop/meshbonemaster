@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: #f8f9fa;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.2);
+}
+
+#logo {
+    height: 50px;
+}
+
+#container {
+    display: flex;
+    height: calc(100vh - 100px - 70px);
+    min-height: 0;
+    background-color: #eeeeee;
+}
+
+nav {
+    flex: 0.75;
+    padding: 20px;
+    border: 1px solid #ddd;
+    overflow: auto;
+    height: 100%;
+    background-color: cornsilk;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    cursor: pointer;
+    padding: 10px 0;
+}
+
+nav ul li.active {
+    color: blue;
+    font-weight: bold;
+}
+
+main {
+    flex: 3;
+    padding: 20px;
+    overflow: auto;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+.title {
+    font-size: 150%;
+}
+
+.md-content {
+    overflow-x: auto;
+    white-space: nowrap;
+}
