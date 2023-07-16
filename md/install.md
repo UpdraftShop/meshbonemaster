@@ -1,10 +1,10 @@
 # <a name="install_top">導入方法</a>
 
 ### <a name="download">= ダウンロード<br></a>
-準備中...<br>
+ダウンロードはboothから → [booth](https://updraftshop.booth.pm/items/4934082)<br>
 
 ### <a name="download">= インストール<br></a>
-ダウンロードした「UpdraftShop.Core.unitypackage」と「UpdraftShop.MeshBoneMaster.unitypackage」を<br>
+ダウンロードした「UpdraftShop-Core.unitypackage」と「UpdraftShop-MeshBoneMaster.unitypackage」を<br>
 自身のunityプロジェクトにドラッグ&ドロップ,もしくは左上のメニューから<br>
 [Assets] → [Import Package] → [Custom Package...] でインストールします。<br>
 <br>
